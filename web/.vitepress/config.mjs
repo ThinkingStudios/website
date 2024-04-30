@@ -4,10 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "ThinkingStudio Website",
   description: "ThinkingStudio's website",
+  base: "/website/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    base: "/website/",
-
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Mods', link: '/mod/index' },
