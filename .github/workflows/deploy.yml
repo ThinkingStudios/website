@@ -13,7 +13,7 @@ jobs:
       - name: Install Vitepress
         run: npm install vitepress
       - name: Build and Deploy
-        uses: jenkey2011/vuepress-deploy
+        uses: jenkey2011/vuepress-deploy@master
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           TARGET_REPO: ThinkingStudios/website
