@@ -6,7 +6,7 @@ export default defineConfig({
   description: "ThinkingStudio's website",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    base: "/",
+    base: "/website/",
 
     nav: [
       { text: 'Home', link: '/' },
