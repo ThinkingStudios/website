@@ -1,3 +1,15 @@
+---
+versions: # 多版本模式
+  id: "ryoamic"
+  vanilla: "1.20.4"
+  loaders:
+    - text: "NeoForge"
+      loader: "neoforge"
+    - text: "Fabric"
+      loader: "fabric"
+---
+
+
 # RyoamicLights
 
 [![GitHub license](https://img.shields.io/github/license/ThinkingStudios/RyoamicLights?style=flat-square)](https://raw.githubusercontent.com/ThinkingStudios/RyoamicLights/1.20.4-architectury/LICENSE)

@@ -1,3 +1,7 @@
-# ThinkingStudio's Mod Docs
+---
+layout: home
 
-- [RyoamicLights Docs](/docs/ryoamiclights/index)
+hero:
+  name: Mods Docs
+  tagline: ThinkingStudio's Mods API Docs
+---
